@@ -1,0 +1,26 @@
+{
+  "name": "trackyourbudget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MClarke9k9/TrackYourBudget.git"
+  },
+  "author": "Mark Clarke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MClarke9k9/TrackYourBudget/issues"
+  },
+  "homepage": "https://github.com/MClarke9k9/TrackYourBudget#readme"
+}
