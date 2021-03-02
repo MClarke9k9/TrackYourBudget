@@ -22,7 +22,7 @@ app.use(express.static("public"));
 // });
 
 mongoose.connect(
-    process.env.MONGODB_URI || 'mongodb://localhost/GetFitt', {
+    process.env.MONGODB_URI || 'mongodb://localhost/GetFit', {
         useNewUrlParser: true,
         useUnifiedTopology: true,
         useCreateIndex: true,
