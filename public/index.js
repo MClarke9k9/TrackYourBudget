@@ -59,7 +59,7 @@ function populateChart() {
         return sum;
     });
 
-    // remove old chart if it exists
+    
     if (myChart) {
         myChart.destroy();
     }
